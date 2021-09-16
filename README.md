@@ -4,7 +4,8 @@ Scratch firmware for extension moudle
 Scratch firmware for extension moudle
 
 Tested on Dexarm Extension Moule V1(ESP32 WROVER) & Arduino 1.8.15
-![avatar](/image/System Block.png)
+
+![avatar](/image/System_Block.png)
 
 
 ![avatar](/image/Scratch_Demo_For_Dexarm.png)
